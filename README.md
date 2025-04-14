@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JonathanBContreras
-- 👀 I’m interested in ... Deep learning applications, mobile computing and sensor systems
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... JonathanContreras92@gmail.com
+- 👀 I’m interested in ... Space Propulsion systems, combustion instability, deep learning applications to propulsion systems
+- 🌱 I’m currently learning ... Predictive modeling of high frequency combustion instability using simulation data
+- 💞️ I’m looking to collaborate on ... Predictive combustion instability using deep learning
+- 📫 How to reach me ... jonathan.b.contreras@sjsu.edu, JonathanContreras92@gmail.com
 
 <!---
 JonathanBContreras/JonathanBContreras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
