@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonathanBContreras
 - 👀 I’m interested in ... Space Propulsion systems, combustion instability, deep learning applications to propulsion systems
-- 🌱 I’m currently learning ... Predictive modeling of high frequency combustion instability using simulation data
+- 🌱 I’m currently learning ... How to analyze injector driven thermoacoustic coupling using CFD and FEA
 - 💞️ I’m looking to collaborate on ... Predictive combustion instability using deep learning
 - 📫 How to reach me ... jonathan.b.contreras@sjsu.edu, JonathanContreras92@gmail.com
 
