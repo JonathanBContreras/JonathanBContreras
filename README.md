@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonathanBContreras
-- 👀 I’m interested in ... Space Propulsion systems, combustion instability, deep learning applications to propulsion systems
-- 🌱 I’m currently learning ... How to analyze injector driven thermoacoustic coupling using CFD and FEA
-- 💞️ I’m looking to collaborate on ... Predictive combustion instability using deep learning
+- 👀 I’m interested in ... a Multi-planetary future for humanity, Space Propulsion systems, combustion instability, deep learning applications to propulsion systems, autonomous ai workflows
+- 🌱 I’m currently learning ... How to reliably create and maintain ai assisted CAE workflows
+- 💞️ I’m looking to collaborate on ... Predictive thermofluid surrogate modeling and automated pre/post-processing CAE workflows.
 - 📫 How to reach me ... jonathan.b.contreras@sjsu.edu, JonathanContreras92@gmail.com
 
 <!---
